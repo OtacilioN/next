@@ -8,3 +8,4 @@ Olá, eu sou o Otacilio Maia, professor do módulo de gerência de configuraçã
 - Meu primeiro professor de programação foi Erick Simões
 - Curiosidade 3
 - Curiosidade 4
+- Curiosidade 5
