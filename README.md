@@ -7,3 +7,4 @@ Olá, eu sou o Otacilio Maia, professor do módulo de gerência de configuraçã
 - Eu tenho uma tatuagem sobre git
 - Meu primeiro professor de programação foi Erick Simões
 - Curiosidade 3
+- Curiosidade 4
